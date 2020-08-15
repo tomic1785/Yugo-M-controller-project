@@ -5,7 +5,7 @@ Yugo-M is a drop-in replacement for the original PS/2 controller. It connects to
 
 ## Abstract
 IBM Model M keyboards, produced in 80s and early 90s, come with a detachable PS/2 controller board. The PCB is commonly found in one of the following sizes: 170x50mm or 150x38mm. There is no special need to explain reasons to replace the controller which is non-customizable, has high power consumption and connects through obsolete PS/2 interface. Although there are solutions in the form of converters in which the cable is plugged in, a more elegant and similarly priced solution would be to replace the original PCB with an aftermarket one. This would turn Model M into a modern keyboard with customizable layout. 
-I am aware that at least one similar project exists. It's a more sophisticated and higher-priced product than Yugo-M. I have no intentions to compete with it; Yugo-M is occupying a lower price range. In fact, the lack of an existing, relatively affordable, solution made me start this project for my own needs. 
+I am aware that at least one similar project exists. It's a more sophisticated and higher-priced product than Yugo-M. I have no intentions to compete with it; Yugo-M is occupying a lower price range. In fact, the lack of an existing, relatively affordable solution, made me start this project for my own needs. 
 
 
 ## Rev. 0.9b (prototype batch)
