@@ -15,14 +15,20 @@ I am aware that at least one similar project exists. It's a more sophisticated a
 ## Rev 1.1b (work in progress)
 * Replaces both 170x50 and 150x38mm PCBs;
 * 101-key (ANSI), 102-key (ISO) and SSK (will need verification!) keyboards supported
-* ...
+* Entering and exiting bootloader mode with one button accessible from the outside
+* Planned daughterboards for USB-C and Micro-USB compatibility
+
+## Variants
+* 16pin+12pin
+* 16p+8p+4p
+* 16p+8p+cable (+5€). Comes with a new cable and LED board. Connector isn't compatible with the original one! 
 
 ## Hardware availability
-* Directly from me - write me an email at [tomicn8@hotmail.com] ($45). 
-* On eBay ($49) [link will be added when I make the listing]
+* Directly from me - write me an email at [tomicn8@hotmail.com] (--€). 
+* On eBay (--€) [link will be added when I make the listing]
 ### Shipping
-* As a registered letter ($8); 
-* Via EMS ($26). 
+* As a registered letter (7,5€); 
+* Via EMS (23€). 
 ## Updates
 #### 2020-08-11
 * Prototype is fully functional, all initial bugs are resolved, and there is enough parts to assemble 5 of them. I'm going to keep 2 pieces for testing purposes. 
