@@ -14,8 +14,9 @@ I am aware that at least one similar project exists at the moment. I have no int
 * 16p+8p (SSK)
 
 ## Hardware availability
-***Note:** I'm planning to start a small batch production (10-50pcs at a time) as soon as the QMK Configurator is up and running.*
-* Directly from me - write me an email at [tomicn8@hotmail.com] (~40€). 
+***Note:** I'm planning to start a small batch production (10-50pcs at a time) as soon as the QMK Configurator is up and running. I'll post the listing on some forum marketplaces also. *
+
+* Directly from me - write me an email at [tomicn8@hotmail.com] (~40€).
 * On eBay (~45€) [link will be added when I make the listing]
 ### Shipping
 * As a registered letter (7,5€); 
@@ -32,6 +33,8 @@ I am aware that at least one similar project exists at the moment. I have no int
 * USB B connector. 
 
 ## Updates
+#### 2020-09-14
+* I intend to open-source the project. Tidying up the schematics and writing the documentation will take some time though. It's a simple design and I have no 'intellectual property' to hide. 
 #### 2020-09-09
 * Rev 1.1b prototype is being tested for several days. One-button bootloader/reset is working reliably. It's ready for production. 
 * USB-C and Micro USB daughterboards are designed and ready for production. They are yet to be tested (the only concerns are of mechanical nature - sturdiness and fit). 
