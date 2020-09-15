@@ -1,7 +1,7 @@
 # Yugo-M-controller-project
 #### The STM32-based controller for IBM Model M keyboards
 
-Yugo-M is a drop-in replacement for the original PS/2 controller. It connects to PC (or other devices) via USB, and it is programmable. By default it runs [QMK firmware] (https://qmk.fm/), but you can flash it with any firmware compatible with STM32 chip, or you can write your own firmware. It is just a simple implementation of the STM32F303 microcontroller. 
+Yugo-M is a drop-in replacement for the original PS/2 controller. It connects to PC (or other devices) via USB, and it is programmable. By default it runs [QMK firmware](https://qmk.fm/), but you can flash it with any firmware compatible with STM32 chip, or you can write your own firmware. It is just a simple implementation of the STM32F303 microcontroller. 
 
 ## Abstract
 IBM Model M keyboards, produced in 80s and early 90s, come with a detachable PS/2 controller board. The PCB is commonly found in one of the following sizes: 170x50mm or 150x38mm. There is no special need to explain reasons to replace the controller which is non-customizable, has high power consumption and connects through obsolete PS/2 interface. Although there are solutions in the form of converters in which the cable is plugged in, a more elegant and similarly priced solution would be to replace the original PCB with an aftermarket one. This would turn Model M into a modern keyboard (minus n-key rollover) with customizable layout. 
