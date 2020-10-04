@@ -14,7 +14,7 @@ I am aware that at least one similar project exists at the moment. I have no int
 * 16p+8p (SSK)
 
 ## Hardware availability
-***Note:** Available soon! *
+***Note:** Available soon!*
 * Directly from me - write me an email at [tomicn8@hotmail.com] (~40€).
 * On eBay (~45€) [link will be added when I make the listing]
 ### Shipping
