@@ -14,7 +14,7 @@ I am aware that at least one similar project exists at the moment. I have no int
 * 16p+8p (SSK)
 
 ## Hardware availability
-***Note:** I'm planning to start a small batch production (10-50pcs at a time) as soon as the QMK Configurator is up and running. I'll post the listing on some forum marketplaces also.*
+***Note:** Available soon! *
 * Directly from me - write me an email at [tomicn8@hotmail.com] (~40€).
 * On eBay (~45€) [link will be added when I make the listing]
 ### Shipping
@@ -32,6 +32,8 @@ I am aware that at least one similar project exists at the moment. I have no int
 * USB B connector. 
 
 ## Updates
+#### 2020-10-04
+* Firmware is all set up (yay!). As soon as I get and test out the last revision of PCBs (are they easy to solder, do they fit properly etc.) I'll be putting them up for sale and open-sourcing the project. 
 #### 2020-09-14
 * I intend to open-source the project. Tidying up the schematics and writing the documentation will take some time though. It's a simple design and I have no 'intellectual property' to hide. 
 #### 2020-09-09
