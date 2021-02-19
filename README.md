@@ -14,7 +14,7 @@ I am aware that at least one similar project exists at the moment. I have no int
 * 16p+8p (SSK)
 
 ## Hardware availability
-***Note:** Available soon!*
+***Note:** Available soon!*\
 ***Note #2:** Well, it's taking a bit longer than I anticipated. Covid and unusual work schedule are doing their thing. As of 19-Feb-21, the project is still active.*
 * On eBay (~40€) [link will be added when I make the listing]
 * On Tindie (~40€) [link will be added when I make the listing]
