@@ -33,13 +33,9 @@ I am aware that at least one similar project exists at the moment. I have no int
 * USB B connector. 
 
 ## Updates
+#### 2021-03-06
+* Since STM32F303 MCUs are virtually impossible to get for quite some time, I will be switching to the F103. This will require some more time and testing, and another pull request to QMK. 
 #### 2020-10-04
 * Firmware is all set up (yay!). As soon as I get and test out the last revision of PCBs (are they easy to solder, do they fit properly etc.) I'll be putting them up for sale and open-sourcing the project. 
 #### 2020-09-14
 * I intend to open-source the project. Tidying up the schematics and writing the documentation will take some time though. It's a simple design and I have no 'intellectual property' to hide. 
-#### 2020-09-09
-* Rev 1.1b prototype is being tested for several days. One-button bootloader/reset is working reliably. It's ready for production. 
-* USB-C and Micro USB daughterboards are designed and ready for production. They are yet to be tested (the only concerns are of mechanical nature - sturdiness and fit). 
-#### 2020-08-11
-* Prototype is fully functional, all initial bugs are resolved, and there is enough parts to assemble 5 of them. I'm going to keep 2 pieces for testing purposes. 
-* Rev 1.1b development is underway. Waiting for some parts to arrive. 
