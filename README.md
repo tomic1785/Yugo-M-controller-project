@@ -34,7 +34,7 @@ I am aware that at least one similar project exists at the moment. I have no int
 
 ## Updates
 #### 2021-03-06
-* Since STM32F303 MCUs are virtually impossible to get for quite some time, I will be switching to the F103. This will require some more time and testing, and another pull request to QMK. 
+* STM32F303 MCUs are virtually impossible to get for quite some time. The project will be on hold until there is a reliable supply. 
 #### 2020-10-04
 * Firmware is all set up (yay!). As soon as I get and test out the last revision of PCBs (are they easy to solder, do they fit properly etc.) I'll be putting them up for sale and open-sourcing the project. 
 #### 2020-09-14
