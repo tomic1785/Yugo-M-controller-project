@@ -10,17 +10,12 @@ I am aware that at least one similar project exists at the moment. I have no int
 ## Variants
 * 16pin+12pin
 * 16p+8p+4p
-* 16p+8p+cable (+5€). Comes with a new cable and LED board. Connector isn't compatible with the original one!
+* 16p+8p+cable. Comes with a new cable and LED board. Connector isn't compatible with the original one!
 * 16p+8p (SSK)
 
 ## Hardware availability
-***Note:** Available soon!*\
-***Note #2:** Well, it's taking a bit longer than I anticipated. Covid and unusual work schedule are doing their thing. As of 19-Feb-21, the project is still active.*
-* On eBay (~40€) [link will be added when I make the listing]
-* On Tindie (~40€) [link will be added when I make the listing]
-### Shipping
-* As a registered letter (5€); 
-* Via EMS (23€). 
+Until I get around to open-source the hardware, I can assemble a PCB and ship it to you for $50-ish. 
+A while ago, I started a [forum thread](https://deskthority.net/viewtopic.php?t=24568), so you can hit me up over there. 
 
 ## Rev 1.1b
 * Entering and exiting bootloader mode with one button accessible from the outside;
@@ -33,6 +28,8 @@ I am aware that at least one similar project exists at the moment. I have no int
 * USB B connector. 
 
 ## Updates
+#### 2024-04-21
+* Just got reminded about this project. The supply chain is back in order, so it is feasible again. I'll open source the hardware, but it will take some time. 
 #### 2021-03-06
 * STM32F303 MCUs are virtually impossible to get for quite some time. The project will be on hold until there is a reliable supply. 
 #### 2020-10-04
